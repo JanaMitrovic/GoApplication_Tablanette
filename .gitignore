@@ -1,0 +1,6 @@
+*.exe
+go.sum
+*.out
+.env
+.vscode/
+*.exe*
